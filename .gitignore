@@ -1,0 +1,24 @@
+# ---- large data & model artifacts (not for version control) ----
+models/
+data/
+JCOPE Data/
+OFES Data/
+old reference docs/
+
+# ---- binary intermediates ----
+*.npy
+*.npz
+*.joblib
+*.nc
+*.tar
+*.gz
+
+# ---- python ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# ---- os ----
+.DS_Store

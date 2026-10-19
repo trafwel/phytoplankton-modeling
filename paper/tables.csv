@@ -1,0 +1,14 @@
+Table 1. Early-warning trade-off at four candidate warning thresholds.
+Threshold P(collapse) >,Collapses caught,Warnings correct,Cell-days flagged
+0.2,79.6%,34.0%,35%
+0.3,56.0%,44.9%,19%
+0.4,29.8%,57.4%,8%
+0.5,9.4%,67.2%,2%
+
+Table 2. Forecast skill as a function of lead time.
+Lead (days),Accuracy,Skill vs. climatology,Skill vs. persistence
+1,0.751,+0.269,-1.443
+3,0.730,+0.218,-0.166
+5,0.717,+0.180,+0.068
+7,0.709,+0.157,+0.169
+10,0.702,+0.133,+0.249
